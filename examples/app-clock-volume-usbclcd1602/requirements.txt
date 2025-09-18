@@ -1,0 +1,5 @@
+hidapi
+pstray
+Pillow
+pycaw
+psutil
