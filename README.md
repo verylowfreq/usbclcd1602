@@ -9,12 +9,13 @@ The USB-CLCD1602 is a convenient input/output module that can be easily used in 
 It can be connected to a PC via USB and to a microcontroller via I2C. No special device drivers are required; by using the library, you can display characters and read input with simple code.
 
 
-## 仕様
+## 特徴
 - 16文字 2行 キャラクタ液晶（英数字、半角カナ、記号）
 - オン・オフ可能なバックライト
 - 回転と押し込み操作のできるロータリーエンコーダー（つまみ）
 - USBでの制御（USB-HIDクラスで、専用デバイスドライバは不要）
 - I2Cでの制御
+- 消費電力： 50mA（バックライト消灯）、１５０ｍA（バックライト点灯）
 
 
 ## 応用例
@@ -60,4 +61,5 @@ USB Type-C （パソコン向け）と、Grove互換端子（I2C通信向け）�
 - README.md
 - 添付ドキュメント_v1.pdf : 頒布のさいに添付しているドキュメントです。
 - LICENSE : 各ファイルのライセンスの詳細を記してあります。必ずご確認ください。
+
 
