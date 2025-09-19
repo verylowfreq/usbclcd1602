@@ -60,6 +60,5 @@ USB Type-C （パソコン向け）と、Grove互換端子（I2C通信向け）�
     - arduino_suzuno32rv_usbhost_usbclcd1602/ : CH32Vマイコンボード Suzuno32RV向けのサンプルプログラムとライブラリです。
 - README.md
 - 添付ドキュメント_v1.pdf : 頒布のさいに添付しているドキュメントです。
+- USB-CLCD1602 v1 Schematics.pdf ： 本商品の回路図です。
 - LICENSE : 各ファイルのライセンスの詳細を記してあります。必ずご確認ください。
-
-
